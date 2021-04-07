@@ -145,3 +145,5 @@ function init(){
 }
 init();
 
+console.log("anything");
+
